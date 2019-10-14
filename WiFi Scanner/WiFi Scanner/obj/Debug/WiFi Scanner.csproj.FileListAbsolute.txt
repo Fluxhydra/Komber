@@ -1,0 +1,11 @@
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\bin\Debug\WiFi Scanner.exe.config
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\bin\Debug\WiFi Scanner.exe
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\bin\Debug\WiFi Scanner.pdb
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi Scanner.csprojAssemblyReference.cache
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi_Scanner.Properties.Resources.resources
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi Scanner.csproj.GenerateResource.cache
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi Scanner.exe
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi Scanner.pdb
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\bin\Debug\SimpleWifi.dll
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi Scanner.csproj.CopyComplete
+C:\Users\Hydra\source\repos\WiFi Scanner\WiFi Scanner\obj\Debug\WiFi_Scanner.title.resources
