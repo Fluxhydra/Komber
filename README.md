@@ -14,6 +14,6 @@ Mencari sebuah posisi perangkat dengan bantuan 3 atau lebih access point. <br>
 Membutuhkan aplikasi WiFi Scanner dengan refresh auto. <br>
 Lebih baik yang berbasis Android. <br>
 
-## Getting x,y,z Points From Accelerometer.
+## Getting x,y,z Axis From Accelerometer.
 Aplikasi berbasis Android untuk mendapatkan posisi x,y,z relatif. <br>
-Belum ada progress.
+Belum ada progress. <br>
